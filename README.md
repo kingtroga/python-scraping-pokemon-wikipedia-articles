@@ -12,6 +12,7 @@
  
 <center>
   <img src="images/masterList.gif">
+  ![article]("images/masterList.gif')
 </center>
 
  <ul>
