@@ -11,8 +11,7 @@
  </ul>
  
 <center>
-  <img src="images/masterList.gif">
-  ![article]("images/masterList.gif')
+  <img style="display:flex; justify-content:center; align-content:center;" src="images/masterList.gif">
 </center>
 
  <ul>
