@@ -73,7 +73,7 @@ What I want to do is simple but how do I do it programatically.
 2. Then write the article in binary form to file on my disk
 Let's do that in code.
 <center>
-<img src="images/logicPic.gif">
+<img src="images/logicPic.gif"/>
 </center>
 
 
